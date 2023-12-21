@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gobang.h": "c",
+        "cstdio": "cpp"
+    }
+}
